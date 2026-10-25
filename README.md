@@ -1,5 +1,5 @@
 # U1 JPEG komprese rastrových dat – YGEI
-Semestrální úloha z předmětu Geoinformatika (155YGEI) na Fakultě stavební ČVUT.
+Úloha 1 z předmětu Geoinformatika (155YGEI) na Fakultě stavební ČVUT.
 
 ## Popis projektu (DWT)
 Součástí programu je resamplování obrazu, kvantizace, ZIG-ZAG uspořádání, Huffmanovo kódování a zpětná rekonstrukce obrazu.
